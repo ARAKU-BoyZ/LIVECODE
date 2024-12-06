@@ -1,4 +1,4 @@
-const {getArcadeResult, getPrizes, gamezone} = require('../3.js')
+const {getArcadeResult, getPrizes, gamezone} = require('../1.js')
 const Restriction = require('hacktiv8-restriction')
 
 describe('Soal 3', () => {

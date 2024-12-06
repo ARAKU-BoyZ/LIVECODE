@@ -1,4 +1,4 @@
-const { filterReceipt, usersCanCook } = require("../2.js");
+const { filterReceipt, usersCanCook } = require("../1.js");
 const Restriction = require("hacktiv8-restriction");
 
 describe("Soal 2", () => {
